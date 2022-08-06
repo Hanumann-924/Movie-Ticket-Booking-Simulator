@@ -1,2 +1,3 @@
 # Movie-Ticket-Booking-Simulator
-Java Mini Project 
+Java Phase 1 Assessment
+
